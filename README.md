@@ -10,10 +10,10 @@ Included texts are found for free online via Project Gutenburg.
 
 ########################################################################################################################
 ########################################################################################################################
-#
-#                                               use: "python ngram.py N M FILE-1...FILE-X"
-#                                               note: file number is arbitrary and can be any amount
-#                                               N is the n in nGram, M is the number of sentences to generate
-#
+
+                                               use: "python ngram.py N M FILE-1...FILE-X"
+                                               note: file number is arbitrary and can be any amount
+                                               N is the n in nGram, M is the number of sentences to generate
+
 ########################################################################################################################
 ########################################################################################################################
