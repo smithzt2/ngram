@@ -86,7 +86,6 @@ def sentenceGen(model, n):
     size = len(model)
     sentence = startTag(n)
     space = " "
-    sentence = startTag(n)
 
     while word != '<END>':
         candidates = ""
